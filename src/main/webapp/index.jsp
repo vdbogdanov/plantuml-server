@@ -21,9 +21,9 @@
 </head>
 <body>
   <div class="app flex-rows">
-    <div class="header">
+    <!-- <div class="header">
       <%@ include file="/components/header/header.jsp" %>
-    </div>
+    </div> -->
     <div class="main flex-main flex-columns">
       <%@ include file="/components/editor/editor.jsp" %>
       <div id="previewer-main-container" class="previewer flex-main">
